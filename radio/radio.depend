@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1462703271 source:c:\users\sdaniel\desktop\2015maj\radio\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+	<stdlib.h>
+
